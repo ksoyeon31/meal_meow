@@ -1,0 +1,13 @@
+#밑에 코드를 추가해줘야 venv, node_modules같은 큰 파일들이 github에 올라가지 않음
+# Node
+front/node_modules/
+front/dist/
+
+# Python
+back/venv/
+__pycache__/
+*.pyc
+
+# Environment & Config
+.env
+*.log
